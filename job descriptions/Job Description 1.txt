@@ -1,0 +1,47 @@
+Systems Engineer Co-ops will be assigned to work with an experienced project team. Individual responsibilities will be designated by the lead engineer based on the specific requirements of each project and the individual’s capabilities.
+
+Responsibilities
+
+Systems Engineer Co-ops will be assigned to work with an experienced project team. Individual responsibilities will be designated by the lead engineer based on the specific requirements of each project and the individual’s capabilities.
+
+Following is a chronological overview of a typical project and the tasks with which and intern or part time engineer may assist. Percentages represent the tasks relative effort but will vary from project to project.
+
+Instrumentation & Electrical Design (40%)
+
+Create instrument lists by examining P&ID drawings
+Compile submittal and procurement documentation for controls and instrument hardware
+Provide technical support for panel fabrication technicians
+Inspect completed control enclosures
+
+
+System Design and Configuration (30%)
+
+Participate in customer design review meetings
+Assemble development system using project hardware and computers
+Configure user interface and HMI screens
+Configure DDC, PLC and/or DCS control algorithms
+Draft system documentation from templates
+Assist is customer demonstrations and acceptance testing
+
+
+Onsite System Startup (30%)
+
+Works in a supervised role and/or with a team at a customer site
+Install project software and configuration onto site systems
+Participate in point-to-point loop checks
+Perform instrumentation and software calibration and tuning
+Participate in functional tests of all systems
+Troubleshoot installation discrepancies
+Program field modifications as required
+Assist with developing commissioning test plans and documentation updates/redlines
+Assist with developing training documentation/presentation on operations and maintenance of system
+
+
+Candidates must be authorized to work in the U.S. without RoviSys sponsorship
+
+Qualifications
+
+Full-time student status
+Strong academic achievement, maintaining a GPA of 3.0 or above
+Enrollment in a Bachelor's program in a Technical Field, related to Engineering or Systems
+Passionate about problem solving and developing solutions

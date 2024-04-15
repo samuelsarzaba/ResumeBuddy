@@ -1,0 +1,55 @@
+Machine Learning Engineer Intern (Monetization Technology-Ads Core Technology)- 2024 Start (BS/MS/PhD))
+San JoseInternR&D - BackendUndergraduate/Master Intern- 2024 StartJob ID: A108867
+Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+
+The Ads Traffic Strategy and User Experience team uses various levers and advertising space to adjust global and personalized distribution of ads traffic, optimize supply and demand, and achieve revenue target while meeting many regional, national and supply restrictions. By modeling active and passive user feedback signals, we improve the quality of advertising delivery and optimize traffic efficiency to protect users from unexpected and inappropriate advertising content, and improve user ads experience and retention.
+
+We are looking for talented individuals to join us for an internship in 2024. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok..
+
+Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. It runs for 12 weeks beginning in May/June 2024. Successful candidates must be able to commit to one of the following summer internship cycles below:
+(Select below options for Summer)
+1.May 20, 2024 to August 9, 2024
+2.May 28, 2024 to August 16, 2024
+3.June 10, 2024 to August 30, 2024
+4.June 17, 2024 to September 6, 2024
+5.June 24, 2024 to September 13, 2024
+
+Applications will be reviewed on a rolling basis. We encourage you to apply early. Candidates can apply to a maximum of TWO positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally.
+
+Online Assessment
+Candidates who pass resume evaluation will be invited to participate in TikTok's technical online assessment in HackerRank.
+
+Responsibilities:
+- Build highly scalable machine learning systems/models to improve ads ranking results.
+- Explore, develop and experiment with new features to improve model accuracy.
+- Understand advertisement platform objectives and take full advantage of modern machine learning to improve ad quality, relevancy, and select the best ad formats delivered to end-users.
+- Develop robust core systems and algorithms, including ads format selection system, ads ranking system, model serving system, etc.
+Qualifications
+- Currently pursuing an Bachelor's/Master's Degree in Computer Science, Mathematics, Statistics, or a related technical discipline with 2+ years research or machine learning modeling experience.
+- Solid programming skills, proficient in C/C++ and Python. Familiar with basic data structure and algorithms. Familiar with Linux development environment.
+- Good analytical thinking capability. Essential knowledge and skills in statistics.
+- Good theoretical grounding in deep learning concepts and techniques.
+- Familiar with architecture and implementation of at least one mainstream machine learning programming framework (TensorFlow/Pytorch/MXNet), familiar with its architecture and implementation mechanism.
+
+Preferred Qualifications:
+- PhD candidate focused on a statistical learning related field.
+- Good knowledge in one of the following fields: Factorization Machine, Uplift Modeling, Diffusion Models, Reinforcement Learning.
+- Basic understanding of large recommendation system and ads serving system concepts.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://shorturl.at/cdpT2
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy.
+Job Information
+【For Pay Transparency】Compensation Description Intern (hourly)
+The hourly rate range for this position in the selected city is $45- $45. We cover 100% premium coverage for Full-Time intern medical insurance after 90 days from the date of hire. Medical coverage only, no dental or vision coverage.​
+
+Our time off and leave plans are: Paid holidays and paid sick leave. The sick leave entitlement is based on the time you join.​
+
+We also provide mental and emotional health benefits through our Employee Assistance Program and provide reimbursements for your mobile phone expense. The Company reserves the right to modify or change these benefits programs at any time, with or without notice.
